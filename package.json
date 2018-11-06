@@ -1,0 +1,13 @@
+{
+  "name": "ethereum-watcher",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node watcher.js"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "mysql": "^2.16.0",
+    "web3": "^1.0.0-beta.35",
+    "numeral": "https://github.com/adamwdraper/Numeral-js#0cbdafd7eb828e387e7f500f12123e72fee0923d"
+  }
+}
